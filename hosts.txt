@@ -1,0 +1,2 @@
+localhost slots=4
+boyce slots=7
